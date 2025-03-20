@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\费俊耀\source\repos\Project6\evaluator.h(27,13): warning C4101: “num”: 未引用的局部变量
+  (编译源文件“main.cpp”)
+  
+  Project6.vcxproj -> C:\Users\费俊耀\source\repos\Project6\x64\Debug\Project6.exe
